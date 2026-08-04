@@ -1,3 +1,3 @@
-!["Nova"](./IMG_0277.png "Logo")
+!["Nova"](./images/Nova.png "Logo")
 # Nova
 A simple and fast interpreted code language for learning and testing.
