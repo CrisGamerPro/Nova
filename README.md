@@ -9,7 +9,9 @@ Nova is an interpreted language just like python, lua, php, etc. Because of that
 
 ## Code examples (Syntax)
 **Setting up a variable**
+
 To create a new variable, Nova uses `set`, now you need to specify a name to that variable, on this case ‘test’ -> `set test`, after that, you set a value to it: `set test "hello world"`. And you just created a variable!
 
 **Printing to console**
+
 `print` on nova is not hard, you use `print` and specify a string or a variable like this: `print test` and the output is: `hello world`.
