@@ -1,5 +1,5 @@
 !["Nova"](./images/Nova.png "Logo")
-# Nova
+# Nova Interpreter
 A simple and fast interpreted code language for learning and testing.
 
 ## How it works?
