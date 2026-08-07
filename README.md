@@ -15,3 +15,7 @@ To create a new variable, Nova uses `set`, now you need to specify a name to tha
 **Printing to console**
 
 `print` on nova is not hard, you use `print` and specify a string or a variable like this: `print test` and the output is: `hello world`.
+
+**Running a bash command**
+
+`run` allows you to run bash commands easily by typing `run "Your command"` like this: `run java --version`.
