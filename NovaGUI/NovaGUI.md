@@ -21,3 +21,4 @@ Run launcher.exe if you want to run a fast update check, or simply open nova.exe
 - Builtin editor: A simple code editor for nova.
 - Run `.nova` files by specifying its path instead of running `python nova.py file.nova`.
 > Soon the builtin editor will have a syntax check to improve the experience.
+> NOTE: The 'version.txt' is not required, is there for the update checker.
