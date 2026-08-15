@@ -8,10 +8,10 @@ Go to releases and download the NovaGUI.zip file, there youll find this:
 
 ```
 NovaGUI
-    ↳ launcher.exe
+  ↳ launcher.exe
       nova.exe
       Code
-         ↳ interpreter.exe
+        ↳ interpreter.exe
            editor.exe
 ```
 
