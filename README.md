@@ -30,4 +30,4 @@ run command
 `
 
 ## Extras
-Check (NovaGUI)[./NovaGUI/NovaGUI.md] section if you dont want python installed on your system.
+Check [NovaGUI](./NovaGUI/NovaGUI.md) section if you dont want python installed on your system.
