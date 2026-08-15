@@ -23,11 +23,12 @@ To create a new variable, Nova uses `set`, now you need to specify a name to tha
 
 **Full random sample (from v1.0.0)**
 
-`// Let’s get a Minecraft server running!
+```
+// Let’s get a Minecraft server running!
 set command "java -Xmx2G -jar server.jar nogui"
 print "Now starting up the server…"
 run command
-`
+```
 
 ## Extras
 Check [NovaGUI](./NovaGUI/NovaGUI.md) section if you dont want python installed on your system.
