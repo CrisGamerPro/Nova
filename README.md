@@ -20,13 +20,24 @@ To create a new variable, Nova uses `set`, now you need to specify a name to tha
 
 `run` allows you to run bash commands easily by typing `run "Your command"` like this: `run java --version`.
 
+**Core and its functions**
+
+`core` lets you enable extra features that are disabled by default.
+**Example:**
+```
+// Lets enable 'run' to check the java version installed.
+core enable run
+print "Now run is enabled"
+run "java --version"
+```
 
 **Full random sample (from v1.0.0)**
 
 ```
-// Let’s get a Minecraft server running!
+// Lets get a Minecraft server running!
 set command "java -Xmx2G -jar server.jar nogui"
 print "Now starting up the server…"
+core enable run
 run command
 ```
 
