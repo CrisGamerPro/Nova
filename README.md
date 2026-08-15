@@ -28,3 +28,6 @@ set command "java -Xmx2G -jar server.jar nogui"
 print "Now starting up the server…"
 run command
 `
+
+## Extras
+Check (NovaGUI)[./NovaGUI/NovaGUI.md] section if you dont want python installed on your system.
